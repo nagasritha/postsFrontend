@@ -1,0 +1,41 @@
+.post{
+    background-color:white;
+    border-radius:10px;
+    width:80%;
+    margin:10px;
+}
+.title{
+    font-size:18px;
+}
+
+.postDetails{
+    display:flex;
+    align-items:Center;
+    padding:10px;
+}
+.description{
+    font-size:20px;
+    font-weight: 600;
+    padding:20px;
+}
+
+.profile{
+    width:30px;
+    height:30px;
+    border-radius:30px;
+    color:white;
+    font-size:20px;
+    text-align:center;
+    padding:8px;
+    margin-right:5px;
+
+}
+
+.view{
+    margin-left:auto;
+    background-color: blue;
+    color:white;
+    font-size:20px;
+    padding:5px;
+    border-radius:10px;
+}
